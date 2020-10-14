@@ -6,6 +6,6 @@
 
 - 基于 Vue 框架
 - 使用 Ant Design of Vue 组件库
-- 众多主题
+- axios | vue-i18n | normalize.css | lodash | dayjs | echarts | postcss-px-to-viewport
 
 [Get Started](/README)
